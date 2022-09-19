@@ -1,4 +1,5 @@
 module Sort where
+-- Sorting Algorithms
 
 -- 2.1
 
