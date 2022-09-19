@@ -32,10 +32,7 @@ mergeSort [x] = [x]
 
 -- mergeSort (x:xs) = merge [x] (mergeSort xs) MEINE VARIANTE: funktioniert auch!
 
-mergeSort xs = merge  
+mergeSort xs = merge   -- Musterloesung
     (mergeSort (take (length xs `div` 2) xs))
     (mergeSort (drop (length xs `div` 2) xs))
-
-
-
 
