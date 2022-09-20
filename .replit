@@ -1,4 +1,4 @@
-entrypoint = "Fibs.hs"
+entrypoint = "Polynom.hs"
 
 hidden = [".ghci", "ghci_wrapper.sh"]
 
