@@ -1,4 +1,4 @@
-entrypoint = "Polynom.hs"
+entrypoint = "Merge.hs"
 
 hidden = [".ghci", "ghci_wrapper.sh"]
 
